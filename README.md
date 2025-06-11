@@ -1,4 +1,4 @@
-# 🧠 AppEasy Job Tracker - Technical Assessment
+# 🧠 AppEasy Job Tracker
 
 A full-stack Next.js application for tracking job applications with AI-powered job description analysis.
 
@@ -44,8 +44,8 @@ A full-stack Next.js application for tracking job applications with AI-powered j
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone <your-repo-url>
-   cd job-tracker-app
+   git clone https://github.com/ikegwuonu/job-tracker.git
+   cd job-tracker
    \`\`\`
 
 2. **Install dependencies**
@@ -93,7 +93,7 @@ A full-stack Next.js application for tracking job applications with AI-powered j
 ## 🏗️ Project Structure
 
 \`\`\`
-job-tracker-app/
+job-tracker/
 ├── app/
 │ ├── api/
 │ │ ├── jobs/
